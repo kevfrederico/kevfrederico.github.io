@@ -464,3 +464,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   height: 300px;
   padding-bottom: 10px;
 }
+
+.mb-3 {
+  list-style-type: decimal;
+}
